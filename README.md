@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# This is a web news application created using React App
+
+In this application you can find news sort news , there different catogory newses are available . This app is also created using api s , the api is another domain that will freely provide news api . so u can run this code and use it with out any back end .
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
